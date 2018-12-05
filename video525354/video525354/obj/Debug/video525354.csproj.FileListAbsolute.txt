@@ -1,0 +1,11 @@
+E:\LTTQ\video525354\video525354\bin\Debug\video525354.exe.config
+E:\LTTQ\video525354\video525354\bin\Debug\video525354.exe
+E:\LTTQ\video525354\video525354\bin\Debug\video525354.pdb
+E:\LTTQ\video525354\video525354\obj\Debug\video525354.frmDanhMuc.resources
+E:\LTTQ\video525354\video525354\obj\Debug\video525354.frmSanPham.resources
+E:\LTTQ\video525354\video525354\obj\Debug\video525354.Properties.Resources.resources
+E:\LTTQ\video525354\video525354\obj\Debug\video525354.csproj.GenerateResource.Cache
+E:\LTTQ\video525354\video525354\obj\Debug\video525354.csproj.CoreCompileInputs.cache
+E:\LTTQ\video525354\video525354\obj\Debug\video525354.exe
+E:\LTTQ\video525354\video525354\obj\Debug\video525354.pdb
+E:\LTTQ\video525354\video525354\obj\Debug\video525354.csprojAssemblyReference.cache
